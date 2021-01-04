@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309636079196",
+    "project_id": "todoapp-e9012",
+    "storage_bucket": "todoapp-e9012.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309636079196:android:0bbb4999aed67f68b71099",
+        "android_client_info": {
+          "package_name": "com.thaimy.todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309636079196-c5qb15u2t28hii5n9rt86lvsmc8dkcf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJjwE2gLkbE77WrHGyK5kKKG6wPqGTLQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309636079196-c5qb15u2t28hii5n9rt86lvsmc8dkcf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
