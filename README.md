@@ -1,6 +1,6 @@
 # todo_app
 
-A new Flutter project.
+Based on a course from freeCodeCamp. Uses Firebase for Authetication and Cloud Firestore.
 
 ## Getting Started
 
